@@ -1,0 +1,3 @@
+import subdagnew
+
+print("MAIN")
